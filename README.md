@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Elvis Monteiro 
 - 👀 I’m interested in Data Science & A.I.
 - 🌱 I’m currently learning Python,Sql,Java,Tableau and more and more...
-
-<a href="https://linkedin.com/in/elvism." target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-elvism.-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+- 📫 How to reach ...
+<a href="https://linkedin.com/in/elvisM." target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=linkedin" alt="linkedin"/>
  
  
 <!----- 📫 How to reach me on  @Elvis M.--->
