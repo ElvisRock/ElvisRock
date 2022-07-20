@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Data Science & A.I.
 
-- 🌱 I’m currently learning Python ,Sql ,ML , Tableau ... in " Lifelong Learning"
+- 🌱 I’m currently learning Python ,Sql ,ML , Tableau, Power Bi ... in " Lifelong Learning"
 
 - 📫 How to reach me on...
 
