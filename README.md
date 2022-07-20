@@ -1,6 +1,10 @@
  <!---Boas Vindas Dinâmica---->
- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Elvis </h1>
-
+ <h1 align="left">Hello, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Elvis </h1>
+ 
+ I'm brazilian Data Analyst in love with data science and all sorts of AI applications.
+ 
+ Originally graduated as a Mechanical Engineer, I believe in the power of Math, science and technology for problem solving and world conquering!
+ 
 - 🎯 Mechanical Engineer
 
 - 💫I love Science &  🤖 Technology 
@@ -9,7 +13,7 @@
 
 - 🌱 I’m currently learning Python ,Sql ,ML , Tableau, Power Bi ... in " Lifelong Learning"
 
-- 📫 How to reach me on...
+- 📫 How to reach me: elvismonteirooliveira@outlook.com
 
 <!---Acesso direto para social links--->
 <a href="https://www.linkedin.com/in/elvis-monteiro/" target="_blank">
