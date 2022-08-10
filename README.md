@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Python ,Sql ,ML , Tableau, Power Bi ... in " Lifelong Learning"
 
 - 📫 How to reach me: elvismonteirooliveira@outlook.com
-
+- 📊📶 tabsoft.co/3RS1aNh    
 <!---Acesso direto para social links--->
 <a href="https://www.linkedin.com/in/elvis-monteiro/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=linkedin" alt="linkedin"/>
