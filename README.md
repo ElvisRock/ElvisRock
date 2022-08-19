@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Python ,Sql ,ML , Tableau, Power Bi ... in " Lifelong Learning"
  
-- 📊 https://tabsoft.co/3RS1aNh
+- 📊 Tableau Portfolio:https://tabsoft.co/3RS1aNh
     
 - 📫 How to reach me: elvismonteirooliveira@outlook.com
 
