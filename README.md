@@ -15,7 +15,7 @@
  
 - 📊 Tableau Portfolio: https://tabsoft.co/3RS1aNh
     
-- 📫 How to reach me: elvismonteirooliveira@outlook.com
+- 📫 How to reach me:
 
 <!---Acesso direto para social links--->
 <a href="https://www.linkedin.com/in/elvis-monteiro/" target="_blank">
