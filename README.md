@@ -21,7 +21,13 @@
 <a href="https://www.linkedin.com/in/elvis-monteiro/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=linkedin" alt="linkedin"/>
  
- <!--a href="https://www.instagram.com/elvisdelmore/" target="_blank">
+ <a href="https://www.instagram.com/elvisdelmore/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=instagram" alt="instagram"/>
+  
+  <a href="https://www.youtube.com/channel/UCQENKLCa8qvzsD-IKvhpyZA" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=youtube" alt="youtube"/>
+
+<!--a href="https://www.instagram.com/elvisdelmore/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=instagram" alt="instagram"/>
   
   
