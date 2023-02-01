@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Python ,Sql ,ML , Tableau, Power Bi ... in " Lifelong Learning"
  
-- 📊 Tableau Portfolio: https://tabsoft.co/3RS1aNh
+- 📊 Tableau Portfolio: https://public.tableau.com/app/profile/elvismonteiro
     
 - 📫 How to reach me:
 
@@ -30,7 +30,7 @@
 <!--a href="https://www.instagram.com/elvisdelmore/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ElvisM.-05122A?style=flat&logo=instagram" alt="instagram"/>
   
-  
+  <!https://tabsoft.co/3RS1aNh/>
   
   
   
