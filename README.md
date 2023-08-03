@@ -9,8 +9,7 @@
 - 🎯 Specialized in Data Science
 - 💫I love Science &  🤖 Technology 
 - 👀 I am interested in Data Science and AI projects.
-- 🌱 I’m currently learning Machine Learning and big data technologies.
-
+- 🌱 I’m currently learning Machine Learning and big data technologies. Soon, you will see updates.
 
 
 
