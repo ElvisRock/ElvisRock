@@ -1,19 +1,8 @@
- <h1 align="left">Hello 👋 I'm Elvis </h1>
- 
- I'm brazilian Big Data Analyst| Engineerin love with data science and all sorts of AI applications.
- 
- Originally graduated as a Mechanical Engineer, I believe in the power of Math, science and technology for problem solving and world conquering!
- 
-- 🎯 Mechanical Engineer
-- 🎯 Specialized in Data Science
-- 💫I love Science &  🤖 Technology 
-- 👀 I am interested in Data Science and AI projects.
-- 🌱 I’m currently learning Machine Learning and big data technologies. Soon, you will see updates \°/
-
-
-
-
-
+* 🎯 I'm currently working on Big Data projects, data science, and data engineering.
+* 👀 I'm looking for help with framework collaborations.
+* 🌱 I'm looking to teach and help the community.
+* 💫 Ask me about...
+* 📫 How to reach me: Linked[In](https://www.linkedin.com/in/elvis-monteiro/)
 
 
 
