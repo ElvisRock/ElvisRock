@@ -4,7 +4,7 @@
 * 💫 Ask me about...
 * 📌 How to reach me: Linked[In](https://www.linkedin.com/in/elvis-monteiro/)
 * 📬 Subscribe to my [Newsletter](https://medium.com/@elvis.oliv/about)
-* 🎥 Enjoy my [Channel !](https://www.youtube.com/channel/UCJrB_3ClOuuNKD_tW7GLT9g)
+* 🎥 Enjoy my [Channel !](https://www.youtube.com/@ElvisDelmore)
 
 
 
