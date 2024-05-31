@@ -3,7 +3,7 @@
 * 🌱 I'm looking to teach and help the community.
 * 💫 Ask me about...
 * 📌 How to reach me: Linked[In](https://www.linkedin.com/in/elvis-monteiro/)
-* 📬 Subscribe to my [Newsletter](https://medium.com/@elvis.oliv/about)
+* 📬 Subscribe to my [Newsletter](https://medium.com/@elvis./about)
 * 🎥 Enjoy my [Channel !](https://www.youtube.com/@ElvisDelmore)
 
 
