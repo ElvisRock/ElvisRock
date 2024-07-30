@@ -7,9 +7,7 @@
 * 📬 Subscribe to my [Newsletter](https://medium.com/@elvis./about)
 * 🎥 Enjoy my [Channel !](https://www.youtube.com/@ElvisDelmore)
 
-<p align="right">
-  <img src="https://github.com/ElvisRock/Cracha-Digital/blob/main/print-cracha.PNG" alt="Minha Imagem" width="350"/>
-</p>
+
 
 
 
