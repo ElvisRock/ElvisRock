@@ -1,3 +1,4 @@
+
 * 🎯 I'm currently working on Big Data projects, data science, and data engineering.
 * 👀 I'm looking for help with framework collaborations.
 * 🌱 I'm looking to teach and help the community.
@@ -5,8 +6,6 @@
 * 📌 How to reach me: Linked[In](https://www.linkedin.com/in/elvis-monteiro/) 
 * 📬 Subscribe to my [Newsletter](https://medium.com/@elvis./about)
 * 🎥 Enjoy my [Channel !](https://www.youtube.com/@ElvisDelmore)
-
-
 
 <p align="right">
   <img src="https://github.com/ElvisRock/Cracha-Digital/blob/main/print-cracha.PNG" alt="Minha Imagem" width="350"/>
