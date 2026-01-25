@@ -4,7 +4,7 @@
 * 🌱 I'm looking to teach and help the community.
 * 💫 Ask me about anything
 * 📌 How to reach me: Linked[In](https://www.linkedin.com/in/elvis-monteiro/) 
-* 📬 Subscribe to my [Newsletter](https://medium.com/@elvis./about)
+* 📬 Subscribe to my [Newsletter](https://elvisdelmore.substack.com)
 * 🎥 Enjoy my [Channel !](https://www.youtube.com/@ElvisDelmore)
 
 
